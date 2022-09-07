@@ -1,6 +1,6 @@
 # How to obtain the app#
 
-Click the link: https://github.com/AzaadB/Level_3_Task_7, then it should take you to my the github repository when there the should be a dropdown button called CODE click that, once you've clicked it you'll see an option Download Zip click that and it should download it and once it has extract the files inside and you should have the files.
+Click the link: https://github.com/AzaadB/Task-7, then it should take you to my the github repository when there the should be a dropdown button called CODE click that, once you've clicked it you'll see an option Download Zip click that and it should download it and once it has extract the files inside and you should have the files.
 
 # How to install the app#
 
